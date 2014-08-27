@@ -1,4 +1,5 @@
-New-Mac-Setup
-=============
+# Setting Up A New Mac (from scratch)
 
-Notes from setting up a new Mac from scratch.
+1. Install Atom
+1. Install AddBlock
+1. Install Homebrew
